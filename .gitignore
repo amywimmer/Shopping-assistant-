@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Excel files (if you prefer NOT to version-track these)
+*.xlsx
